@@ -33,3 +33,9 @@ target/
 .project
 .settings
 .springBeans
+
+# Other
+.DS_Store
+.vscode
+node
+node_modules/
